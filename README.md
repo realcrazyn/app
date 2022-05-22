@@ -4,4 +4,4 @@
 
 Для запуска SPA
 
-# run start
+# npm run start
